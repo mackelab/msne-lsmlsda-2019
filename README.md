@@ -1,9 +1,9 @@
-# Large Scale Modelling and Large Scale Data Analysis (LSMLSDA)
-## Exercises and practical
+# LSMLSDA exercises and mini-projects
+This repository belongs to the Large Scale Modelling and Large Scale Data Analysis course at TUM: [moodle link](https://www.moodle.tum.de/course/view.php?id=48594).
 
-### General
+## General
 
-### Usage
+## Usage
 You find exercises in the `exercises` folder, and mini-projects in the
 `mini-projects` folder. 
 
