@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/*
+**/__pycache__/*
+.idea
+**.h5
+__pycache__/
+*.py[cod]
+*$py.class
+**.py~
+*.DS_Store
