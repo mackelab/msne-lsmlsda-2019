@@ -9,7 +9,7 @@ that they do not interfere with other packages or python versions on your system
 (neurodynex needs python=3.5.6).
 
 ## Installation
-1) activate the conda environment. Dependent on your system this is
+1) activate the conda environment. Depending on your system this is
   - `conda activate lsmlsda` (linux)
   - `source activate lsmlsda` (mac os)
   - `activate lsmlsda`(windows)
@@ -21,9 +21,9 @@ that they do not interfere with other packages or python versions on your system
 
 ## Tutorials
 There are very well designed tutorials for getting started with Brian on the brian
-website: https://brian2.readthedocs.io/en/stable/resources/tutorials/index.html
+website.
 
-I downloaded the corresponding jupyter notebooks from the website and put them in this folder. You
+I downloaded the corresponding jupyter notebooks from the [ https://brian2.readthedocs.io/en/stable/resources/tutorials/index.html](website) and put them in this folder. You
 can therefore just pull the latest version of this repository and then start working
 on the notebooks locally.
 
