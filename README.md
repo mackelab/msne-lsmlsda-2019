@@ -17,4 +17,6 @@ create a conda environment named `lsmlsda` execute
 
 Activate your newly create conda env with `source activate lsmlsda`. Then install additional packages with
 
-`conda install -c anaconda notebook numpy scipy matplotlib pandas`. 
+`conda install -c anaconda notebook numpy scipy matplotlib pandas`.
+
+Test changes
