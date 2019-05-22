@@ -2,7 +2,7 @@
 
 This week's tutorial is in the notebook `hh_inference.ipynb`. 
 
-We recommend you run the notebook locally using **conda**. Given your `lsmlsmda` conda env you have been using so far, you probably have to install additional packages `tqdm` (for displaying progress bars) and `pytorch` (for training artificial neural networks)
+We recommend you run the notebook locally using **conda**. Given your `lsmlsmda` conda env you have been using so far, you probably have to install additional packages `tqdm` (for displaying progress bars) and `pytorch` (for training artificial neural networks):
 - `conda install tqdm`
 - for pytorch follow instructions here: https://pytorch.org/get-started/locally/
 
