@@ -1,7 +1,6 @@
 from spectrum import pmtm
 from spectrum.tools import nextpow2
 from brian2 import *
-import itertools
 
 
 def spiketrain_from_spiketimes(spiketimes, runtime, dt):

@@ -6,13 +6,13 @@ from gamma_oscillations.plots import *
 
 
 if __name__ == '__main__':
-    n_pyr = 500  # 500
+    n_pyr = 500
     n_int = 100
     p_conn_pyr2int = 0.1
     p_conn_pyr2pyr = 0.1
     p_conn_int2int = 0.1
     p_conn_int2pyr = 0.1
-    poisson_rate_pyr = 5 #6  # kHz
+    poisson_rate_pyr = 1  # kHz
     poisson_rate_int = 1  # kHz
     runtime = 1100  # ms
     timestep = 0.05  # ms
