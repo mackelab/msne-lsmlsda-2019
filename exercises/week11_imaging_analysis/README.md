@@ -30,6 +30,6 @@ pip install deepdish # for serializing Python, Numpy and Pandas structures in HD
 ## Contact
 
 For questions, please contact:
-hlavian@neuro.mpg.de
+lavian@neuro.mpg.de
 vilim@neuro.mpg.de
 rportugues@neuro.mpg.de
