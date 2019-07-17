@@ -26,3 +26,10 @@ And with pip:
 ```bash
 pip install deepdish # for serializing Python, Numpy and Pandas structures in HDF5
 ```
+
+## Contact
+
+For questions, please contact:
+lavian@neuro.mpg.de
+vilim@neuro.mpg.de
+rportugues@neuro.mpg.de
