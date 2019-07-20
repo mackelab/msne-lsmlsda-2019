@@ -8,4 +8,4 @@ __pycache__/
 *$py.class
 **.py~
 *.DS_Store
-.ipynb
+exercises/week1_decision_making/.ipynb
